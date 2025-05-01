@@ -1,0 +1,85 @@
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image:url("trees.jpg");
+
+background-size:1900px,200px ; 
+
+}
+
+header{
+  
+  width: 1870px;
+  background-color: cornflowerblue;  
+color: aliceblue;
+display:flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px;
+}
+img{
+width: 100px;
+border-radius: 50%;
+}
+
+nav ul{
+list-style-type: none;
+display:flex;
+}
+nav ul li{
+    margin-right: 50px;
+    
+    }
+    nav ul li a{
+        color: azure;
+        text-decoration: none;
+        font-size: 40px;
+        }
+        .signup-button{
+padding: 20px 40px ;
+font-size: 20px;
+border-radius: 20px;
+background-color: darkturquoise;
+color: black;
+border-color:  cornflowerblue;
+cursor: pointer;
+text-decoration: none;
+}
+.signup-button:hover{
+    padding: 20px 40px ;
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: seagreen;
+    color: white;
+    border-color:  cornflowerblue;
+    cursor: pointer;
+    text-decoration: none;
+    }
+    .hero{ margin: center;
+color: blueviolet;
+font-size: 20px;
+width: 900px;
+height: 200px;
+        }
+  
+  h3{
+    list-style-type: none;
+display:flex;
+color: blueviolet;
+margin-left:  900px;
+  }
+  h3 li{
+    font-size: 40px;
+    margin-right: 80px;
+    
+
+  }
+
+
+    
+
+
+    
+  
+
+
+    
